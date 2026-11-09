@@ -134,3 +134,6 @@ dmypy.json
 *.zip
 *.pid
 *.xlsx
+
+# SQLite databases created at runtime by the microservices
+*.db
